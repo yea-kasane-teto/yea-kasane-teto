@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="./ain-logo.png" alt="AIN Logo" width="260" />
+![Uploading 똑바로하자상효야.png…]()
+
 
   # yea-kasane-teto
 
